@@ -1,0 +1,6 @@
+.dockerignore
+.idea/
+.logs/
+content/
+master
+main

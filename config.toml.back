@@ -1,0 +1,10 @@
+baseURL = "http://www.ifefo.com/"
+languageCode = "en-us"
+
+#enable SEO
+enableRobotsTXT = true
+canonifyURLs = true
+
+title = "Stefan's Blog"
+#theme = "minimalist"
+theme = "ananke"
